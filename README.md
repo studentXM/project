@@ -19,4 +19,3 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-配置的是Vue 2.6.11 以上的版本
